@@ -18,7 +18,15 @@ Should be a horizontal rule above
 | This one however will be arbitrary | To illustrate |
 | That the table | Doesn't need specific sizes |
 
-[Link to README.md](
+Here now will be the code block:
+
+```C
+int main(void)
+{
+   printf("Hello World!\n");
+   return 0;
+}
+```
 
 Block Quote:
 >This is.
