@@ -27,3 +27,5 @@ Block Quote:
 >A block quote.
 >Hopefully this is done correctly.
 
+Here's a link to the README.md file:
+[README](https://github.com/ChrisPuricelli/Markdown-Challenge/blob/master/README.md)
