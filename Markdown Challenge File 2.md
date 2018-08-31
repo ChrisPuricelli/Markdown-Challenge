@@ -4,10 +4,9 @@
 Should be a horizontal rule above
 
 - This will be an unordered list
-- Full of unordered
-- Which will be used to just show random things
-- Things
-- Haha those were unordered sentences
+- Full of unordered things
+- Which will be full of useless words
+- However, still very interesting learning how this works
 
 | Column 1 | Column 2 |
 |----------|----------|
